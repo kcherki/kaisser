@@ -30,7 +30,7 @@ I combine strong listening skills, results orientation, and efficient stress man
   - **Frameworks:** CakePHP
 - Optimized a civil engineering school’s website, resulting in an 80% increase in registrations.
 - Created a website [quelleformation.org](https://formationcontinuefsts.com) that achieved significant traffic with unique visitors.
-- Created a website [quelleformation.org](https://quelleformation.org) that achieved significant traffic with unique visitors.
+- Created a website [formationcontinuefsts.com](https://quelleformation.org) that achieved significant traffic with unique visitors.
 ## 🎓 Academic Background:
 I have a diverse academic background, specializing in Big Data, Quality Management, Multimedia, and Telecommunications. Currently, I am pursuing a Master’s in Computer Science and Telecommunications at Mohammed V University in Rabat.
 
