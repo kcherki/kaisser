@@ -1,5 +1,4 @@
-# Cherki Kaisser
-# 🌟 Welcome to My GitHub Profile!
+# 🌟 Cherki Kaisser : Welcome to My GitHub Profile!
 
 ## 👨‍💻 About Me:
 I am a versatile developer and IT project manager with over 9 years of experience in designing, developing, and integrating custom software solutions. My expertise spans from front-end and back-end technologies to project management, SEO, DevOps, and Artificial Intelligence.
